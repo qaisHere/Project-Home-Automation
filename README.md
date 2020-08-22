@@ -1,3 +1,4 @@
 # Project-Home-Automation
-IoT is transforming life of many people around the globe. This was a small attempt to demonstrate INTERNET in day to day life.
 This project was made during IoT Bootcamp organised Cutting Edge Visionaries, NIT-Surat.
+
+This was a very simple attempt to demonstrate the use IoT in making our household accesories easily accesible by connecting them with one's mobile phone. For this purpose we made an mobile app working with Google Firebase using MIT App Inventor and connected it with NODE MCU ESP8266 using WIFI.
